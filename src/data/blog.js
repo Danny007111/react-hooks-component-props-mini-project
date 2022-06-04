@@ -1,3 +1,4 @@
+import React from "react";
 import logo from "../assets/logo.svg";
 
 const blogData = {
@@ -24,8 +25,8 @@ const blogData = {
       title: "Function vs Class Components",
       preview: "React, meet OOJS.",
       minutes: 47,
-    },
-  ],
+    }
+  ]
 };
 
 export default blogData;
